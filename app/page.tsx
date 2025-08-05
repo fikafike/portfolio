@@ -79,16 +79,17 @@ export default function Portfolio() {
       live: "http://agent.borsa.et/",
       featured: true,
     },
-    {
-      title: "Pazimo Event Platform",
-      description:
-        "Comprehensive event ticketing platform with real-time analytics, revenue tracking, and event management dashboard for organizers.",
-      tech: ["Next.js", "Chapa", "Zoho Mail", "Google Authenticator", "OTP", "Socket.io"],
-      image: "/images/pazimo.PNG",
-      github: "#",
-      live: "https://pazimo.com/",
-      featured: true,
-    },
+  {
+  title: "Pazimo Event Platform",
+  description:
+    "Comprehensive event ticketing platform with real-time analytics, revenue tracking, and event management dashboard for organizers.",
+  tech: ["Next.js", "Express", "Chapa", "Zoho Mail", "Google Authenticator", "OTP", "Socket.io"],
+  image: "/images/pazimo.PNG",
+  github: "#",
+  live: "https://pazimo.com/",
+  featured: true,
+}
+
     {
       title: "Etera Portal",
       description:
@@ -98,15 +99,16 @@ export default function Portfolio() {
       github: "#",
       live: "https://portal.eteraet.com/",
     },
-    {
-      title: "HRM Dashboard",
-      description:
-        "Comprehensive Human Resource Management system with employee tracking, analytics, holiday management, and detailed reporting capabilities.",
-      tech: ["Laravel", "MySQL"],
-      image: "/images/hrm.PNG",
-      github: "https://github.com/unknown-yfk/AIS_amazing_hrm/tree/master",
-      live: "#",
-    },
+  {
+  title: "HRM Dashboard",
+  description:
+    "Comprehensive Human Resource Management system with employee tracking, analytics, holiday management, and detailed reporting capabilities.",
+  tech: ["Laravel", "MySQL", "Bootstrap"],
+  image: "/images/hrm.PNG",
+  github: "https://github.com/unknown-yfk/AIS_amazing_hrm/tree/master",
+  live: "#",
+}
+
     {
       title: "Nomo Cashback Platform",
       description:
@@ -116,20 +118,21 @@ export default function Portfolio() {
       github: "#",
       live: "https://nomos-bksj.onrender.com/",
     },
-    {
-      title: "Maldo Pharmacy System",
-      description:
-        "Healthcare management platform with customer support integration, featuring user-friendly login system and dedicated support hotline for pharmacy operations.",
-      tech: ["React.js", "React Bootstrap", "MongoDB", "Socket.io"],
-      image: "/images/maldo.PNG",
-      github: "#",
-      live: "#",
-    },
+  {
+  title: "Maldo Pharmacy System",
+  description:
+    "Healthcare management platform with customer support integration, featuring user-friendly login system and dedicated support hotline for pharmacy operations.",
+  tech: ["React.js", "React Bootstrap", "MongoDB", "Socket.io", "Node.js", "Express"],
+  image: "/images/maldo.PNG",
+  github: "#",
+  live: "#",
+}
+
     {
       title: "InsureTecX Platform",
       description:
         "Modern insurance technology platform with comprehensive coverage solutions, featuring clean design and user-centric approach to insurance services.",
-      tech: ["React.js", "React Bootstrap", "MongoDB", "Socket.io"],
+      tech: ["React.js", "React Bootstrap", "MongoDB", "Socket.io","Express"],
       image: "/images/insure.PNG",
       github: "#",
       live: "#",
